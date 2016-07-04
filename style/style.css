@@ -1,0 +1,39 @@
+body{
+	background-color:blue;
+}
+.toparea{
+	font-size:60px;
+	text-align:center;
+	font-family:forte;
+	background-color:#FF0000;
+	margin-top:0px;
+	}
+
+well{
+	width:40%;
+
+}
+ a:visited{
+	text-decoration:none;
+	color:black;
+}
+a:hover{
+	color:red;
+}
+.btnpad{
+	padding-bottom:10px;
+}
+.search{
+	margin-left:25%;
+	margin-right:25%;
+	margin-top:200px;
+	width:40%;
+}
+well{
+	margin-top:0px;
+}
+.record{
+	background-color:red;
+	padding-top:10px;
+	padding-bottom:10px;
+}
